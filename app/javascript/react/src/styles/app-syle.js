@@ -122,3 +122,10 @@ export const NavStyled = styled.nav`
         }
     }
 `
+
+export const DashboardStyled = styled.div`
+`
+export const ExpensesStyled = styled.div`
+`
+export const IncomesStyled = styled.div`
+`
